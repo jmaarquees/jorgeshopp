@@ -1,4 +1,2 @@
-Flask
-Flask-RESTful
-flask_cors
-gunicorn
+python-3.10.0
+
